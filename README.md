@@ -5,7 +5,6 @@
 <a href="https://twitter.com/ddeshmukh11">
   <img align="left" alt="Darshan Deshmukh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=darshandeshmukh11.darshandeshmukh11)
 
 <br />
 
