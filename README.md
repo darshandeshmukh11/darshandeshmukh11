@@ -5,13 +5,25 @@
 <a href="https://twitter.com/ddeshmukh11">
   <img align="left" alt="Darshan Deshmukh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="darshandeshmukh11@gmail.com">
+  <img align="left" alt="Darshan Deshmukh | Twitter" width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br />\
-
-
-- 🔭 I’m currently working as a DevOps and SRE Architect and specialize in below areas 
-- 💬 Ask me about DevOps, Site Reliability Engineering and anything....
-
+<br /> <br />
 
 
-
+#### 🔭 I’m currently working as a DevOps and SRE Architect and specialize in below areas 
+* DevOps maturity assessment (Value stream mapping)
+* DevOps/SRE staff augmentation
+* Dockerising the application tool stack for zero downtime deployments
+* Pipeline as a Code
+* Infrastructure as a Code.
+* Source Control Management
+* Continuous Integration
+* Code Quality
+* Container Security
+* Continuous Testing
+* Infrastructure Provisioning and Configuration Management
+* Continuous Deployment
+* Cloud migration
+* Infrastructure monitoring, alerting and log management
