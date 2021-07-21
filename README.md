@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Darshan Deshmukh
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Darshan Deshmukh
 <a href="https://www.linkedin.com/in/darshandeshmukh/">
   <img align="left" alt="Darshan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -6,9 +6,7 @@
   <img align="left" alt="Darshan Deshmukh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-
-<br />
-
+<br />\
 
 
 - 🔭 I’m currently working as a DevOps and SRE Architect and specialize in below areas 
