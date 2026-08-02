@@ -6,7 +6,23 @@
 
 <!-- START_PROJECTS -->
 
-*Fetching projects from the site RSS feed — the list will be updated automatically.*
+<!-- Projects generated from https://darshandeshmukh11.github.io/projects/index.xml on 2026-08-02 11:53 UTC -->
+
+### Internal Developer Platform
+
+[View project](https://darshandeshmukh11.github.io/projects/internal-developer-platform/)  •  Published: Fri, 17 Jul 2026 03:44:50 +0900
+
+> Why I Built This
+
+---
+
+### The Continuous Quality Platform
+
+[View project](https://darshandeshmukh11.github.io/projects/continuos-quality-platform/)  •  Published: Sun, 02 Aug 2026 01:23:40 +0900
+
+> The Continuous Quality Platform
+
+---
 
 <!-- END_PROJECTS -->
 
