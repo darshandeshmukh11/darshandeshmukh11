@@ -2,18 +2,20 @@
 
 <br /> <br />
 
-#### 🔭 I’m currently working as a DevOps and SRE Architect and specialize in below areas 
-* DevOps maturity assessment (Value stream mapping)
-* DevOps/SRE staff augmentation
-* Dockerising the application tool stack for zero downtime deployments
-* Pipeline as a Code
-* Infrastructure as a Code.
-* Source Control Management
-* Continuous Integration
-* Code Quality
-* Container Security
-* Continuous Testing
-* Infrastructure Provisioning and Configuration Management
-* Continuous Deployment
-* Cloud migration
-* Infrastructure monitoring, alerting and log management
+## ⭐ Featured project — My Portfolio Website
+
+[Visit the live site → https://darshandeshmukh11.github.io/](https://darshandeshmukh11.github.io/)
+
+A concise showcase of my work and contact information. This personal portfolio highlights my projects, blog posts, and the tools I use to build scalable, reliable systems.
+
+Highlights:
+* Live demo: https://darshandeshmukh11.github.io/
+* Quick overview: Project showcase, case studies, and contact details
+* Built with GitHub Pages and modern web technologies (HTML, CSS, JavaScript)
+
+Want to explore the code or run the site locally?
+* Source: https://github.com/darshandeshmukh11/darshandeshmukh11
+
+---
+
+If you'd like, I can add a screenshot, a short project summary, or a "How I built it" section (tech stack, CI/CD, hosting) to make the showcase more visual and informative.
