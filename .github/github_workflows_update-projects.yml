@@ -1,0 +1,38 @@
+name: Update README projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at 00:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        env:
+          FEED_URL: "https://darshandeshmukh11.github.io/projects/index.xml"
+        run: |
+          python3 scripts/update_projects.py --feed "$FEED_URL" --readme README.md
+
+      - name: Commit README changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git status --porcelain | grep README.md; then
+            git add README.md
+            git commit -m "chore: update README projects from RSS feed"
+            git push
+          else
+            echo "No changes to README.md"
+          fi
