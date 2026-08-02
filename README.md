@@ -20,7 +20,5 @@
 
 <!-- END_PROJECTS -->
 
----
-
 [Visit my complete portfolio → https://darshandeshmukh11.github.io/](https://darshandeshmukh11.github.io/)
 
