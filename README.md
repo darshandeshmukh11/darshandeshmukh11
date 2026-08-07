@@ -4,7 +4,7 @@
 
 <!-- START_PROJECTS -->
 
-<!-- Projects generated from https://darshandeshmukh11.github.io/projects/index.xml on 2026-08-07 02:48 UTC -->
+<!-- Projects generated from https://darshandeshmukh11.github.io/projects/index.xml on 2026-08-07 17:18 UTC -->
 
 ### Internal Developer Platform
 
@@ -19,6 +19,22 @@
 [View project](https://darshandeshmukh11.github.io/projects/continuos-quality-platform/)  •  Published: Sun, 02 Aug 2026 01:23:40 +0900
 
 > The Continuous Quality Platform
+
+---
+
+### From Dashboards to Decisions
+
+[View project](https://darshandeshmukh11.github.io/projects/dashboards-to-decisions/)  •  Published: Sun, 02 Aug 2026 01:23:40 +0900
+
+> From Dashboards to Decisions
+
+---
+
+### From Cloud Waste to Cloud Discipline
+
+[View project](https://darshandeshmukh11.github.io/projects/cloud-governance-finops/)  •  Published: Tue, 04 Aug 2026 01:22:40 +0900
+
+> Cloud Waste Doesn’t Happen Overnight
 
 ---
 
