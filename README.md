@@ -4,7 +4,7 @@
 
 <!-- START_PROJECTS -->
 
-<!-- Projects generated from https://darshandeshmukh11.github.io/projects/index.xml on 2026-08-07 17:18 UTC -->
+<!-- Projects generated from https://darshandeshmukh11.github.io/projects/index.xml on 2026-08-07 17:27 UTC -->
 
 ### Internal Developer Platform
 
@@ -24,7 +24,7 @@
 
 ### From Dashboards to Decisions
 
-[View project](https://darshandeshmukh11.github.io/projects/dashboards-to-decisions/)  •  Published: Sun, 02 Aug 2026 01:23:40 +0900
+[View project](https://darshandeshmukh11.github.io/projects/dashboards-to-decisions/)  •  Published: Tue, 02 Sep 2025 01:21:40 +0900
 
 > From Dashboards to Decisions
 
