@@ -4,7 +4,7 @@
 
 <!-- START_PROJECTS -->
 
-<!-- Projects generated from https://darshandeshmukh11.github.io/projects/index.xml on 2026-08-20 01:23 UTC -->
+<!-- Projects generated from https://darshandeshmukh11.github.io/projects/index.xml on 2026-08-21 01:27 UTC -->
 
 ### Internal Developer Platform
 
@@ -26,7 +26,7 @@
 
 [View project](https://darshandeshmukh11.github.io/projects/dashboards-to-decisions/)  •  Published: Tue, 02 Sep 2025 01:21:40 +0900
 
-> From Dashboards to Decisions
+> From Dashboards to Decisions: Building an AI-Powered Microservices Troubleshooting System
 
 ---
 
